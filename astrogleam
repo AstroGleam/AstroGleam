@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AstroGleam Detailing</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#booking">Booking</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <!-- Banner and intro text here -->
+        </section>
+        <section id="about">
+            <!-- About Us content here -->
+        </section>
+        <section id="services">
+            <!-- Services offered -->
+        </section>
+        <section id="gallery">
+            <!-- Gallery images -->
+        </section>
+        <section id="testimonials">
+            <!-- Customer testimonials -->
+        </section>
+        <section id="booking">
+            <!-- Booking form -->
+        </section>
+        <section id="contact">
+            <!-- Contact information and form -->
+        </section>
+    </main>
+    <footer>
+        <!-- Footer content here -->
+    </footer>
+</body>
+</html>
